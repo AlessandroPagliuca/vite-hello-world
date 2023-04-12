@@ -6,7 +6,15 @@
 
 #hero{
     background-image: url("./jumbo.png");
-    min-height: 600px;
+    width: 100%;
+    height: 100vh;
     background-size: cover;
     background-position: center;
+}
+
+.c92flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
