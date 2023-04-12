@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hero{
+    background-image: url("./jumbo.png");
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+}
